@@ -1,0 +1,92 @@
+critic_review,metascore,movie_title,release_date,user_review,userscore
+,96,Ratatouille,"June 29, 2007",,8.6
+,96,Nashville,"June 11, 1975",,tbd
+,96,12 Years a Slave,"October 18, 2013",,8.1
+,96,The Maltese Falcon,"October 18, 1941",,8.1
+,96,Rosemary's Baby,"June 12, 1968",,8.3
+,96,Manchester by the Sea,"November 18, 2016",,8.2
+,96,12 Angry Men,"April 1, 1957",,9.3
+,96,Ran,"December 20, 1985",,8.4
+,96,Roma,"November 21, 2018",,8.0
+,96,Dumbo,"October 31, 1941",,8.2
+,97,American Graffiti,"August 11, 1973",,8.1
+,97,Psycho,"September 8, 1960",,9.2
+,97,Some Like It Hot,"March 29, 1959",,8.3
+,97,"4 Months, 3 Weeks and 2 Days","January 23, 2008",,7.9
+,97,Gone with the Wind,"January 17, 1940",,8.4
+,93,Badlands,"October 15, 1973",,8.7
+,100,Citizen Kane,"September 4, 1941",,8.5
+,93,There Will Be Blood,"December 26, 2007",,8.1
+,93,Sherpa,"October 2, 2015",,7.7
+,93,Inside Llewyn Davis,"December 6, 2013",,7.8
+,93,Stagecoach,"March 3, 1939",,tbd
+,93,Spotlight,"November 6, 2015",,8.1
+,93,La La Land,"December 9, 2016",,8.4
+,93,Yi Yi,"October 6, 2000",,8.5
+,93,Toni Erdmann,"December 25, 2016",,7.1
+,93,"Crouching Tiger, Hidden Dragon","December 8, 2000",,8.1
+,93,Shoplifters,"November 23, 2018",,8.6
+,93,Reversal of Fortune,"October 17, 1990",,8.2
+,93,Call Me by Your Name,"November 24, 2017",,7.9
+,93,The Servant,"March 16, 1964",,7.9
+,94,Amour,"December 19, 2012",,8.1
+,94,Faces Places,"October 6, 2017",,6.8
+,94,Carlos,"October 15, 2010",,7.8
+,94,The Lord of the Rings: The Return of the King,"December 17, 2003",,9.1
+,94,Lady Bird,"November 3, 2017",,7.6
+,94,We Were Here,"September 9, 2011",,6.9
+,94,Apocalypse Now,"August 15, 1979",,8.8
+,94,The Apartment,"June 15, 1960",,9.0
+,94,Schindler's List,"December 15, 1993",,8.7
+,94,Sideways,"October 22, 2004",,7.1
+,94,Inside Out,"June 19, 2015",,8.7
+,94,Shadow of a Doubt,"January 15, 1943",,9.0
+,94,Amazing Grace,"November 23, 2018",,8.0
+,94,Mr. Turner,"December 19, 2014",,7.0
+,94,The Manchurian Candidate,"October 24, 1962",,8.2
+,94,Pulp Fiction,"October 14, 1994",,9.1
+,94,45 Years,"December 23, 2015",,7.4
+,94,Dunkirk,"July 21, 2017",,8.3
+,94,Before Midnight,"May 24, 2013",,8.3
+,95,A Separation,"December 30, 2011",,8.9
+,95,Anatomy of a Murder,"July 1, 1959",,tbd
+,95,Zero Dark Thirty,"December 19, 2012",,6.9
+,95,WALL-E,"June 27, 2008",,8.9
+,95,The Hurt Locker,"June 26, 2009",,7.3
+,95,Snow White and the Seven Dwarfs,"February 4, 1938",,8.2
+,95,Killer of Sheep,"March 30, 2007",,6.9
+,95,Double Indemnity,"July 6, 1944",,8.4
+,95,I Am Not Your Negro,"December 9, 2016",,5.6
+,94,Taxi Driver,"February 7, 1976",,7.3
+,95,The Social Network,"October 1, 2010",,8.2
+,95,Toy Story,"November 22, 1995",,9.0
+,95,Carol,"November 20, 2015",,8.0
+,95,Beauty and the Beast,"November 22, 1991",,8.7
+,95,The Wild Bunch,"June 18, 1969",,7.3
+,96,Spirited Away,"September 20, 2002",,9.0
+,96,Fantasia,"November 13, 1940",,8.5
+,96,Mean Streets,"October 14, 1973",,7.9
+,96,The Grapes of Wrath,"March 15, 1940",,9.1
+,96,Gravity,"October 4, 2013",,7.8
+,97,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,"January 29, 1964",,8.3
+,96,A Streetcar Named Desire,"September 19, 1951",,8.4
+,97,The Third Man,"September 3, 1949",,8.3
+,97,My Left Foot,"March 30, 1990",,8.5
+,98,Hoop Dreams,"October 14, 1994",,8.0
+,98,All About Eve,"October 27, 1950",,8.8
+,98,Rashomon,"December 26, 1951",,8.4
+,98,North by Northwest,"August 6, 1959",,8.1
+,99,Touch of Evil,"February 1, 1958",,8.1
+,98,Pan's Labyrinth,"December 29, 2006",,8.7
+,98,The Treasure of the Sierra Madre,"January 24, 1948",,8.5
+,99,Pinocchio,"February 23, 1940",,8.4
+,99,Moonlight,"October 21, 2016",,7.2
+,99,City Lights,"March 7, 1931",,8.8
+,99,Singin' in the Rain,"April 11, 1952",,8.9
+,100,Notorious,"September 6, 1946",,8.0
+,100,Three Colors: Red,"November 23, 1994",,8.8
+,100,Boyhood,"July 11, 2014",,7.7
+,100,Rear Window,"September 1, 1954",,8.8
+,100,Casablanca,"January 23, 1943",,9.0
+,100,The Godfather,"March 11, 1972",,9.2
+,100,Vertigo,"May 28, 1958",,8.8
