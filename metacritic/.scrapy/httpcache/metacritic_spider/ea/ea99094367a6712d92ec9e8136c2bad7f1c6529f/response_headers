@@ -1,0 +1,18 @@
+Content-Type: text/html; charset=UTF-8
+Strict-Transport-Security: max-age=300
+Access-Control-Allow-Methods: POST, GET, OPTIONS
+Access-Control-Allow-Headers: Origin, Authorization, X-Requested-With
+Vary: Accept-Encoding, Geo-CountryCode, Geo-GDPR, Geo-CountryCode, Geo-GDPR
+X-Cache-Hits: 0, 0
+Content-Security-Policy: frame-ancestors 'self';
+X-Timer: S1570318622.452485,VS0,VE396
+Content-Encoding: gzip
+Accept-Ranges: bytes
+Age: 0
+Via: 1.1 varnish
+Via: 1.1 varnish
+Via: 1.1 varnish
+X-Served-By: cache-iad2130-IAD, cache-lga21945-LGA
+Date: Sat, 05 Oct 2019 23:37:02 GMT
+X-Cache: MISS, MISS
+X-Instart-Request-Id: 16690218928076764624:YTN01-NPPRY11:1570318622:0

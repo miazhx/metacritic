@@ -1,0 +1,22 @@
+Content-Type: text/html; charset=UTF-8
+Vary: Accept-Encoding, Geo-CountryCode, Geo-GDPR, Geo-CountryCode, Geo-GDPR,User-Agent
+Strict-Transport-Security: max-age=300
+Access-Control-Allow-Methods: POST, GET, OPTIONS
+Access-Control-Allow-Headers: Origin, Authorization, X-Requested-With
+X-Cache-Hits: 0, 0
+Content-Security-Policy: frame-ancestors 'self';
+X-Timer: S1570318547.934568,VS0,VE8106
+Content-Encoding: gzip
+Accept-Ranges: bytes
+Age: 0
+Set-Cookie: ctk=NWQ5OTI4ZDJhZDQ0MzkxZWUzMzYyYjM4M2Q3Ng%3D%3D; expires=Thu, 02-Apr-2020 23:35:46 GMT; Max-Age=15552000; path=/; domain=.metacritic.com
+Set-Cookie: countryCode=US; expires=Sat, 12 Oct 2019 23:35:55 GMT; path=/;
+Set-Cookie: countryCode=US; expires=Sat, 12 Oct 2019 23:35:55 GMT; path=/;
+Set-Cookie: il_geo = %7B%22country%5Fcode%22%3A%22US%22%2C+%22country%5Fname%22%3A%22United+States%22%2C+%22dma%5Fcode%22%3A%22501%22%2C+%22postal%5Fcode%22%3A%2210018%22%7D; path=/; domain=www.metacritic.com; secure; expires=Sat, 12-Oct-19 23:35:46 GMT
+Via: 1.1 varnish
+Via: 1.1 varnish
+Via: 1.1 varnish
+X-Served-By: cache-iad2143-IAD, cache-lga21922-LGA
+Date: Sat, 05 Oct 2019 23:35:55 GMT
+X-Cache: MISS, MISS
+X-Instart-Request-Id: 8486794639281401992:YTN01-NPPRY11:1570318555:0

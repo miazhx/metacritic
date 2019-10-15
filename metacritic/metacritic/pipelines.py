@@ -8,19 +8,19 @@
 from scrapy.exporters import CsvItemExporter
 from scrapy.exceptions import DropItem
 
-class ValidateItemPipeline(object):
+# class ValidateItemPipeline(object):
 
-    def process_item(self, item, spider):
-        if not all(item.values()):
-            raise DropItem("Missing values!")
-        else:
-            return item
+#     def process_item(self, item, spider):
+#         if not all(item.values()):
+#             raise DropItem("Missing values!")
+#         else:
+#             return item
 
 class MetacriticPipeline(object):
 
 
     def __init__(self):
-        self.filename = 'metacri_reviews.csv'
+        self.filename = 'metacri_reviews_final.csv'
     def open_spider(self, spider):
         self.csvfile = open(self.filename, 'wb')
         self.exporter = CsvItemExporter(self.csvfile)

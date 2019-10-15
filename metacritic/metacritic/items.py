@@ -22,9 +22,33 @@ class MetacriticItem(Item):
  #    user_review = scrapy.Field()
 
 	movie_title = Field()
+	genre = Field()
 	release_date = Field()
+	distributor = Field()
+
 	metascore = Field()
+	
+	meta_positive = Field()
+	meta_mixed = Field()
+	meta_negative = Field()
+
+
 	userscore = Field()
-	critic_review = Field()
-	user_review = Field()
-   
+	#user_positive = Field()
+	#user_mixed = Field()
+	#user_negative = Field()
+
+	individual_meta_score = Field()
+	critic_name = Field() 
+	review_date = Field()
+	media = Field()
+	text = Field()
+
+	#total_user_rating = Field()
+	#individual_user_score = Field()
+	#user_name = Field()
+
+	##added 10/10 
+	
+
+
