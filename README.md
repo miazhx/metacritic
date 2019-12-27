@@ -1,28 +1,45 @@
-# metacritic-
+# Metacritic -- Scrapy Project
 
-Metacritic is a website where many movie critics' voices are distilled into the single Metascore, a weighted average of the most respected critics writing reviews online and in print. Joker and Parasite are two recent movies in theatre, both are movie festival award-winning with high public score as well. However, Joker is having a significant lower Metascore as of today, 59 versus 95. Moreover, this score used to be more than 80 after it takes home Top Prize at Venice Film Festival. 
-What might be the factors that drive the score to change this way? Do they apply to reviews and Metascore in general as well? Hope this project can shed some light on our perspective about Metascore, critic reviews, media and more.
+Launched in January 2001, ``Metacritic`` has evolved over the last decade to distill critics' voices into a single Metascore, a weighted average of the most respected critics writing reviews online and in print.  Metascores range from 0-100, with higher scores indicating better overall reviews. Metascores are highlighted in three colors for instantly compare: green scores for favorable reviews, yellow scores for mixed reviews, and red scores for unfavorable reviews.
 
-Part 1 Introduction about Metacritic
-•	Wildly used in IMDb
-•	Metascore generating system 
+## Inspiration 
+Do you check IMDB and Rotten Potato scores before watching a movie? As a regular moviegoer, I always check critic scores on [Metacritic][Metacritic]. At the time when I was deciding the topic for this project, two movies on my list caught my eyes -- Joker and Parasite. They are both crime movies highly appraised by the audience, both scored more than 90 after they took home Top Prize at Film Festivals. However, Joker’s critic score dropped significantly to 59 around its release date while Parasite's score remains the same.
 
-Part 2 Web Scraping Data Summary
-•	12,635 Movies 25 Genres, 1,244 Distributors 
-•	247,009 Reviews & Scores 
-•	273 Media Companies 
-•	3,069 Critics
+Questions:
 
-Part 3 Review Word Cloud and Sentiment Analysis
-•	Reviews with higher than 80 scores
-•	Reviews with lower than 20 scores 
+* Do critics have movie preferences?
+* Why do movie scores change overtime and how?
 
-Part 4 Critic & User Genre Preference Analysis
+This project is going to answer the questions above by scraping metacritic.com using scrapy, and conducting natural language processing (NLP), sentiment and numerical data analysis together with data visualization using Pandas.
 
-Part 5 Individual Critic Review Average Vs Review Quantity Analysis
+## Data Scraped 
+2 separate spiders are implemented to avoid scraping duplicated information for each movie. Spider 1 scraped the first layer along the list of 'Best Movies of All Time' , features including:
 
-Part 6 Review Date Analysis
-•	6 movie samples
-•	Joker example
+* Movies titles
+* Movies genre
+* Distributor
+* Release date
+* Metascore and userscore
+* Number of positive, mixed, negative reviews
 
-Part 7 Presentation Summary 
+Spider 2 goes deeper and scraped each movie’s individual reviews with features as below:
+
+* Critic’s Name
+* Media Name
+* Critic Individual Score
+* Review Date
+* Review Content
+
+The dataset can be found [here][dataset].
+
+## About Me
+
+Hanxiao(Mia)Zhang
+[@Blogs](https://nycdatascience.com/blog/student-works/metacritic-exploring-critic-movie-reviews/)
+[@LinkedIn](https://www.linkedin.com/in/zhanghanxiao/) 
+miazhx2013@gmail.com
+
+<!-- Markdown link & img dfn's -->
+[Metacritic]: https://www.metacritic.com/
+[dataset]: https://www.kaggle.com/miazhx/metacritic-movie-reviews
+[blog]: https://nycdatascience.com/blog/student-works/metacritic-exploring-critic-movie-reviews/
